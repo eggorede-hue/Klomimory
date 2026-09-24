@@ -1,4 +1,5 @@
 <p align="center">
+    <p> Ehor </p>
     <a href="https://github.com/Klomix/Klomimory" align="center">
 <img width="552" height="82" alt="Klomimory — advanced spaced repetition plugin for Obsidian" style="width: 55%; height: auto; object-fit: contain;" src="https://github.com/user-attachments/assets/a2ad8aea-0571-4dc8-82e7-fcc10c55fd38" />
     </a>
